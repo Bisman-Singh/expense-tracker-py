@@ -1,0 +1,322 @@
+[
+  {
+    "type": "income",
+    "category": "Salary",
+    "amount": 5661.56,
+    "description": "Monthly salary",
+    "date": "2025-01-17",
+    "created_at": "2026-03-08T19:57:11.183421"
+  },
+  {
+    "type": "expense",
+    "category": "Housing",
+    "amount": 1722.4,
+    "description": "Rent",
+    "date": "2025-01-21",
+    "created_at": "2026-03-08T19:57:11.183441"
+  },
+  {
+    "type": "expense",
+    "category": "Food",
+    "amount": 408.95,
+    "description": "Groceries",
+    "date": "2025-01-07",
+    "created_at": "2026-03-08T19:57:11.183449"
+  },
+  {
+    "type": "expense",
+    "category": "Transport",
+    "amount": 107.84,
+    "description": "Gas",
+    "date": "2025-01-18",
+    "created_at": "2026-03-08T19:57:11.183453"
+  },
+  {
+    "type": "expense",
+    "category": "Utilities",
+    "amount": 175.99,
+    "description": "Electric + Internet",
+    "date": "2025-01-09",
+    "created_at": "2026-03-08T19:57:11.183458"
+  },
+  {
+    "type": "expense",
+    "category": "Entertainment",
+    "amount": 84.97,
+    "description": "Netflix + Spotify",
+    "date": "2025-01-19",
+    "created_at": "2026-03-08T19:57:11.183462"
+  },
+  {
+    "type": "expense",
+    "category": "Shopping",
+    "amount": 296.42,
+    "description": "Amazon orders",
+    "date": "2025-01-26",
+    "created_at": "2026-03-08T19:57:11.183474"
+  },
+  {
+    "type": "expense",
+    "category": "Healthcare",
+    "amount": 124.68,
+    "description": "Insurance",
+    "date": "2025-01-07",
+    "created_at": "2026-03-08T19:57:11.183478"
+  },
+  {
+    "type": "income",
+    "category": "Freelance",
+    "amount": 897.72,
+    "description": "Side project",
+    "date": "2025-01-01",
+    "created_at": "2026-03-08T19:57:11.183483"
+  },
+  {
+    "type": "expense",
+    "category": "Food",
+    "amount": 177.43,
+    "description": "Restaurants",
+    "date": "2025-01-24",
+    "created_at": "2026-03-08T19:57:11.183487"
+  },
+  {
+    "type": "expense",
+    "category": "Subscriptions",
+    "amount": 41.89,
+    "description": "Cloud services",
+    "date": "2025-01-04",
+    "created_at": "2026-03-08T19:57:11.183491"
+  },
+  {
+    "type": "expense",
+    "category": "Education",
+    "amount": 32.18,
+    "description": "Udemy course",
+    "date": "2025-01-10",
+    "created_at": "2026-03-08T19:57:11.183495"
+  },
+  {
+    "type": "expense",
+    "category": "Travel",
+    "amount": 334.15,
+    "description": "Weekend trip",
+    "date": "2025-01-25",
+    "created_at": "2026-03-08T19:57:11.183498"
+  },
+  {
+    "type": "income",
+    "category": "Salary",
+    "amount": 5787.09,
+    "description": "Monthly salary",
+    "date": "2025-02-21",
+    "created_at": "2026-03-08T19:57:11.183504"
+  },
+  {
+    "type": "expense",
+    "category": "Housing",
+    "amount": 1418.87,
+    "description": "Rent",
+    "date": "2025-02-01",
+    "created_at": "2026-03-08T19:57:11.183507"
+  },
+  {
+    "type": "expense",
+    "category": "Food",
+    "amount": 370.78,
+    "description": "Groceries",
+    "date": "2025-02-10",
+    "created_at": "2026-03-08T19:57:11.183533"
+  },
+  {
+    "type": "expense",
+    "category": "Transport",
+    "amount": 142.25,
+    "description": "Gas",
+    "date": "2025-02-13",
+    "created_at": "2026-03-08T19:57:11.183538"
+  },
+  {
+    "type": "expense",
+    "category": "Utilities",
+    "amount": 169.81,
+    "description": "Electric + Internet",
+    "date": "2025-02-25",
+    "created_at": "2026-03-08T19:57:11.183542"
+  },
+  {
+    "type": "expense",
+    "category": "Entertainment",
+    "amount": 89.36,
+    "description": "Netflix + Spotify",
+    "date": "2025-02-07",
+    "created_at": "2026-03-08T19:57:11.183545"
+  },
+  {
+    "type": "expense",
+    "category": "Shopping",
+    "amount": 288.05,
+    "description": "Amazon orders",
+    "date": "2025-02-21",
+    "created_at": "2026-03-08T19:57:11.183549"
+  },
+  {
+    "type": "expense",
+    "category": "Healthcare",
+    "amount": 176.16,
+    "description": "Insurance",
+    "date": "2025-02-11",
+    "created_at": "2026-03-08T19:57:11.183553"
+  },
+  {
+    "type": "income",
+    "category": "Freelance",
+    "amount": 896.92,
+    "description": "Side project",
+    "date": "2025-02-20",
+    "created_at": "2026-03-08T19:57:11.183556"
+  },
+  {
+    "type": "expense",
+    "category": "Food",
+    "amount": 185.56,
+    "description": "Restaurants",
+    "date": "2025-02-28",
+    "created_at": "2026-03-08T19:57:11.183560"
+  },
+  {
+    "type": "expense",
+    "category": "Subscriptions",
+    "amount": 50.9,
+    "description": "Cloud services",
+    "date": "2025-02-23",
+    "created_at": "2026-03-08T19:57:11.183564"
+  },
+  {
+    "type": "expense",
+    "category": "Education",
+    "amount": 32.4,
+    "description": "Udemy course",
+    "date": "2025-02-20",
+    "created_at": "2026-03-08T19:57:11.183568"
+  },
+  {
+    "type": "expense",
+    "category": "Travel",
+    "amount": 390.89,
+    "description": "Weekend trip",
+    "date": "2025-02-28",
+    "created_at": "2026-03-08T19:57:11.183572"
+  },
+  {
+    "type": "income",
+    "category": "Salary",
+    "amount": 4916.22,
+    "description": "Monthly salary",
+    "date": "2025-03-25",
+    "created_at": "2026-03-08T19:57:11.183576"
+  },
+  {
+    "type": "expense",
+    "category": "Housing",
+    "amount": 1416.44,
+    "description": "Rent",
+    "date": "2025-03-19",
+    "created_at": "2026-03-08T19:57:11.183580"
+  },
+  {
+    "type": "expense",
+    "category": "Food",
+    "amount": 399.57,
+    "description": "Groceries",
+    "date": "2025-03-16",
+    "created_at": "2026-03-08T19:57:11.183584"
+  },
+  {
+    "type": "expense",
+    "category": "Transport",
+    "amount": 96.33,
+    "description": "Gas",
+    "date": "2025-03-19",
+    "created_at": "2026-03-08T19:57:11.183588"
+  },
+  {
+    "type": "expense",
+    "category": "Utilities",
+    "amount": 230.54,
+    "description": "Electric + Internet",
+    "date": "2025-03-22",
+    "created_at": "2026-03-08T19:57:11.183591"
+  },
+  {
+    "type": "expense",
+    "category": "Entertainment",
+    "amount": 76.36,
+    "description": "Netflix + Spotify",
+    "date": "2025-03-28",
+    "created_at": "2026-03-08T19:57:11.183595"
+  },
+  {
+    "type": "expense",
+    "category": "Shopping",
+    "amount": 239.55,
+    "description": "Amazon orders",
+    "date": "2025-03-03",
+    "created_at": "2026-03-08T19:57:11.183599"
+  },
+  {
+    "type": "expense",
+    "category": "Healthcare",
+    "amount": 143.02,
+    "description": "Insurance",
+    "date": "2025-03-07",
+    "created_at": "2026-03-08T19:57:11.183602"
+  },
+  {
+    "type": "income",
+    "category": "Freelance",
+    "amount": 757.28,
+    "description": "Side project",
+    "date": "2025-03-14",
+    "created_at": "2026-03-08T19:57:11.183606"
+  },
+  {
+    "type": "expense",
+    "category": "Food",
+    "amount": 195.56,
+    "description": "Restaurants",
+    "date": "2025-03-21",
+    "created_at": "2026-03-08T19:57:11.183610"
+  },
+  {
+    "type": "expense",
+    "category": "Subscriptions",
+    "amount": 44.12,
+    "description": "Cloud services",
+    "date": "2025-03-10",
+    "created_at": "2026-03-08T19:57:11.183613"
+  },
+  {
+    "type": "expense",
+    "category": "Education",
+    "amount": 31.54,
+    "description": "Udemy course",
+    "date": "2025-03-10",
+    "created_at": "2026-03-08T19:57:11.183617"
+  },
+  {
+    "type": "expense",
+    "category": "Travel",
+    "amount": 418.64,
+    "description": "Weekend trip",
+    "date": "2025-03-01",
+    "created_at": "2026-03-08T19:57:11.183621"
+  },
+  {
+    "type": "expense",
+    "category": "Food",
+    "amount": 50.0,
+    "description": "Lunch",
+    "date": "2026-03-08",
+    "created_at": "2026-03-08T19:59:28.014462"
+  }
+]
